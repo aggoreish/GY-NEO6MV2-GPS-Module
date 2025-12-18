@@ -8,3 +8,11 @@ https://www.amazon.com/dp/B0F2DKWJ4J
 
 Component Overview (Components101):  
 https://components101.com/modules/neo-6mv2-gps-module
+
+---
+
+## Wiring
+Arduino 5V   → VCC  
+Arduino GND  → GND  
+Arduino D4   → TX  
+Arduino D3   → RX  
